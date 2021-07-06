@@ -18,7 +18,7 @@ TVBS新聞,https://www.youtube.com/watch?v=A4FbB8UhNRs
 
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 
-寰宇新聞,https://www.youtube.com/watch?v=lsfQqAymuGM
+寰宇新聞,https://www.youtube.com/watch?v=fF99HOWfgpQ
 
 公共電視,https://www.youtube.com/watch?v=ED4QXd5xAco
 
