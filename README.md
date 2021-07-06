@@ -24,7 +24,7 @@ TVBS新聞,https://www.youtube.com/watch?v=A4FbB8UhNRs
 
 公視台語台,https://www.youtube.com/watch?v=HyhkhY0tTjo
 
-我們這一家,https://www.youtube.com/watch?v=L3d8SXZzOhE
+我們這一家,https://www.youtube.com/watch?v=7wokbFQAUHo
 
 小豬佩奇,https://www.youtube.com/watch?v=ni1CxDStx0Y
 
