@@ -35,7 +35,3 @@ TVBS新聞,https://www.youtube.com/watch?v=A4FbB8UhNRs
 JapaNews24,https://www.youtube.com/watch?v=coYw-eVU0Ks
 
 CCTV中文國際https://www.youtube.com/watch?v=vCDDYb_M2B4
-
-TVB無綫新聞台,https://news.tvb.com/live/inews?is_hd
-
-TVB無綫財經資訊台,https://news.tvb.com/live/j5_ch85?is_hd
