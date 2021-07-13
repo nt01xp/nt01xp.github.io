@@ -18,4 +18,3 @@ TVBS新聞,https://www.youtube.com/watch?v=A4FbB8UhNRs
 
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
 
-寰宇新聞,https://www.youtube.com/watch?v=QlTuJ1X8JCw
